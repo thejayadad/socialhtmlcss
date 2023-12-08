@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  .post {
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    padding: 10px;
+  }
+  
+  .post img, .post video {
+    max-width: 100%;
+    height: auto;
+  }
+  
